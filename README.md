@@ -1,1 +1,3 @@
-# Zoo
+Apresentação do Projeto
+
+O ZooTreta é um sistema desenvolvido para facilitar o controle das informações dos animais de um zoológico, que atualmente são mantidas em diferentes registros. O sistema centraliza dados sobre alimentação, situação, localização, cuidados e atendimentos veterinários, permitindo que os funcionários consultem essas informações de forma rápida. Funcionários e responsáveis pelo zoológico podem cadastrar animais, atualizar seus dados e acompanhar suas necessidades. O sistema funciona pelo navegador e permite que apenas funcionários autorizados alterem as informações dos animais.

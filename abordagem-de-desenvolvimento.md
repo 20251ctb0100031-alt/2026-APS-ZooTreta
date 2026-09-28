@@ -1,0 +1,5 @@
+O projeto segue uma abordagem incremental, desenvolvendo o sistema por partes e em uma ordem definida. Primeiro são produzidas as seções de propósito e escopo, depois as funcionalidades e regras do sistema, e por fim os detalhes de implementação.
+
+Ao final de cada ciclo, uma parte do projeto é revisada para conferir se as informações estão de acordo entre as seções. As versões atualizadas são salvas no repositório, permitindo acompanhar a evolução do projeto e apresentar as partes concluídas aos responsáveis pelo zoológico.
+
+Essa abordagem foi escolhida porque permite corrigir problemas durante o desenvolvimento, diferente do modelo cascata, em que as etapas são feitas de forma mais rígida e sequencial. O projeto não utiliza o Scrum completo porque não há uma equipe com papéis, reuniões e ciclos formais; por isso, é utilizada uma abordagem incremental mais simples e adequada ao projeto.
